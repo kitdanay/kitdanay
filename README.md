@@ -3,11 +3,13 @@
 
 🌱🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍😄
 
-
+---
 
 ### 📫 Contact
- 👉 [fackbook](https://web.facebook.com/people/Kitdanay-Tua/100002806193744/)<br>
- 👉 [instagram](https://www.instagram.com/kitdanay_01/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
+ <!-- 👉 [Fackbook](https://web.facebook.com/people/Kitdanay-Tua/100002806193744/)<br> -->
+ 👉 [Instagram](https://www.instagram.com/kitdanay_01/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
+ 
+---
 
 ### ⭐ Quotes
 > "การลงมือทำเท่านั้น ที่จะเปลี่ยน `**ความฝัน**` ให้เป็นจริง"
