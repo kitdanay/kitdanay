@@ -14,6 +14,8 @@
 ### ⭐ Quotes
 > "การลงมือทำเท่านั้น ที่จะเปลี่ยน `**ความฝัน**` ให้เป็นจริง"
 
+### 
+![](https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif)
 
 <!--
 **kitdanay/kitdanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
