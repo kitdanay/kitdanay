@@ -1,10 +1,10 @@
-### Hi there 👋
- <!--🙋 สวัสดีครับ ผม กิตติ์ดนัย สกุลวรเกียรติ์ หรือตั้ว
+ <!-- ### Hi there 👋
+🙋 สวัสดีครับ ผม กิตติ์ดนัย สกุลวรเกียรติ์ หรือตั้ว
 
-🌱🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍😄-->
+🌱🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍😄
 
 ---
-
+-->
 ### 📫 Contact
  <!-- 👉 [Fackbook](https://web.facebook.com/people/Kitdanay-Tua/100002806193744/)<br> -->
  👉 [Instagram](https://www.instagram.com/kitdanay_01/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
