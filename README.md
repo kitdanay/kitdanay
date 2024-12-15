@@ -17,6 +17,11 @@
 ### 
 ![](https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif)
 
+
+###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true)
+
+
 <!--
 **kitdanay/kitdanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
