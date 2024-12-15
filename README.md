@@ -7,12 +7,12 @@
 -->
 ### 📫 Contact
  <!-- 👉 [Fackbook](https://web.facebook.com/people/Kitdanay-Tua/100002806193744/)<br> -->
- 👉 [Instagram](https://www.instagram.com/kitdanay_01/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
+ 👉 [Instagram](https://www.instagram.com/kitdanay.tua/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
  
 ---
 
 ### ⭐ Quotes
-> "การลงมือทำเท่านั้น ที่จะเปลี่ยน `**ความฝัน**` ให้เป็นจริง"
+> "`**อยากลาออก**` แต่ทำได้แค่หยอกเล่น"
 
 ### 
 ![](https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif)
@@ -23,19 +23,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitdanay&layout=compact&theme=dark)
-
-
 ---
-
-###
-![Alt Text](link/to/image.png)
-
----
-
-###
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 
 <!--
 **kitdanay/kitdanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
