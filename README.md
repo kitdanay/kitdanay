@@ -17,9 +17,24 @@
 ### 
 ![](https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif)
 
+---
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true&theme=dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitdanay&layout=compact&theme=dark)
+
+
+---
+
+###
+![Alt Text](link/to/image.png)
+
+---
+
+###
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 
 <!--
