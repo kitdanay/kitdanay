@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # 👋 สวัสดีครับ ผม KITDANAY
-### 🚀 Web Developer • Dreamer • Code Enthusiast
+### 🚀 Full Stack Developer • Code Enthusiast • Tech Lover
 
 > ✨ _สร้างสิ่งดีๆ ด้วยโค้ดและจินตนาการ_ ✨
 
@@ -20,10 +20,14 @@
 ```js
 const kitdanay = {
   name: "Kitdanay Tua",
-  passion: "Creating amazing things with code 💻",
-  learning: ["Cloud Technologies", "DevOps", "Web3"],
+  title: "Full Stack Developer",
+  passion: "Building scalable web applications 🚀",
+  frontend: ["React", "Vue.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Python", "Express", "MongoDB", "PostgreSQL"],
+  devops: ["Docker", "Linux", "Git", "CI/CD"],
+  learning: ["AWS", "Kubernetes", "System Design"],
   status: "Always grinding 🔥",
-  motto: "Code today, inspire tomorrow ⚡"
+  motto: "Code quality > Code quantity ⚡"
 };
 ```
 
@@ -73,75 +77,192 @@ const kitdanay = {
 
 <div align="center">
 
+### 🎯 My GitHub Journey
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kitdanay&theme=dark&hide_border=true)](https://github.com/kitdanay)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github)
+<a href="https://github.com/kitdanay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kitdanay&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitdanay&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitdanay&layout=compact&theme=dark&hide_border=true)
+### 📈 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitdanay&theme=dark&hide_border=true)](https://github.com/kitdanay)
+
+**📌 Pro Tips:** GitHub Stats จะแสดงเต็มที่เมื่อ:
+- ✅ มี public repositories ที่มี commits
+- ✅ อยู่ 24 ชม.หลัง commit ครั้งแรก
+- ✅ ตั้ง public profile บน GitHub
+
+ดูรายละเอียดที่ [GitHub Profile](https://github.com/kitdanay) 👈
 
 </div>
 
-> 💡 **หมายเหตุ:** สถิติจะแสดงในระบบ GitHub อย่างเต็มที่ ตรวจสอบ [GitHub Profile](https://github.com/kitdanay) ของเรา
-
 ---
 
-## 🌟 คำพูดโปรด
-
-> **_"อยากลาออก แต่ทำได้แค่หยอกเล่น"_** 😄
-
-> **_"Code is poetry, bugs are the plot twists"_** 🖋️ 
-
----
-
-## 🚀 Let's Connect! 
-
-<p align="center">
-  <a href="https://github.com/kitdanay">
-    <img width="50px" src="https://img.icons8.com/fluent/0/000000/github.png"/>
-  </a>
-  <a href="https://www.instagram.com/kitdanay.tua/">
-    <img width="50px" src="https://img.icons8.com/fluent/0/000000/instagram-new.png"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img width="50px" src="https://img.icons8.com/fluent/0/000000/gmail-new.png"/>
-  </a>
-</p>
-
-**หรือติดต่อผ่าน:**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kitdanay)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kitdanay.tua/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
-## 🎯 Currently Grinding On... 🔥
-
-- 🚀 **Full Stack Projects** - สร้างแอปที่จริงจังและมีประโยชน์
-- 🌐 **Cloud Technologies** - AWS, GCP, Azure (ยังไม่เลือก 😅)
-- 🤝 **Open Source Contribution** - ช่วยชุมชน dev ไทย
-- 💬 **Mentoring** - แชร์ความรู้กับคนรุ่นใหม่
-- 🧠 **System Design** - เรียนรู้ architecture ที่ scalable
-
-**Next Target:** 🎯 Master Backend Architecture & DevOps Mastery
-
----
+## 💫 My Favorite Quotes
 
 <div align="center">
 
-### ⭐ Love what I do? 
+### 🎭 Life Philosophy
 
-[![Stars](https://img.shields.io/github/stars/kitdanay?style=social)](https://github.com/kitdanay)
-[![Followers](https://img.shields.io/github/followers/kitdanay?style=social)](https://github.com/kitdanay)
+```
+┌─────────────────────────────────────┐
+│  "อยากลาออก แต่ทำได้แค่หยอกเล่น"     │
+│  ~ KITDANAY's Daily Mood 😄          │
+└─────────────────────────────────────┘
 
-**Drop a ⭐ if you like my work!**
+┌─────────────────────────────────────┐
+│  "Code is poetry, bugs are plot twists" │
+│  ~ The Developer's Truth 🖋️           │
+└─────────────────────────────────────┘
+
+┌─────────────────────────────────────┐
+│  "Write code for humans, not machines"  │
+│  ~ Code Quality First ⚡              │
+└─────────────────────────────────────┘
+
+┌─────────────────────────────────────┐
+│  "Ship it first, optimize later"     │
+│  ~ Real World Wisdom 🚀              │
+└─────────────────────────────────────┘
+```
+
+</div> 
 
 ---
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWQ/giphy.gif" width="50" /> 
+## 🌐 Let's Connect & Build Together! 🚀
 
-**Happy Coding! Keep Building. Never Stop Learning.**
+<div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=kitdanay&color=blueviolet&style=flat-square)
+### Find Me On
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow%20Me)](https://github.com/kitdanay)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow)](https://www.instagram.com/kitdanay.tua/?fbclid=IwAR3c5oLadb6dB8Yg0HRMTEKxr2hQGioofpKMqDEp7dkfumNrTcAeYK8MBqw)
+[![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+### 💌 Quick Contact
+
+- 🐙 **GitHub:** [@kitdanay](https://github.com/kitdanay) - Check out my projects!
+- 📸 **Instagram:** [@kitdanay.tua](https://www.instagram.com/kitdanay.tua/) - Follow my journey
+- 📧 **Email:** your-email@gmail.com - Let's collab!
+
+> **💡 Open for:**
+> - 🤝 Collaborations & partnerships
+> - 💼 Freelance projects
+> - 🧑‍💼 Job opportunities
+> - 🎓 Mentoring & learning exchanges
+
+</div>
+
+---
+
+## 🎯 My Roadmap & Goals 🚀
+
+<div align="center">
+
+### 2025-2026 Milestones
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    🚀 PROJECT ROADMAP 🚀                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ✅ Full Stack Development        [████████░░] 80%         │
+│  📍 Cloud Architecture (AWS)      [███████░░░] 70%         │
+│  🏗️  System Design Mastery        [██████░░░░] 60%         │
+│  🌟 Open Source Contributions     [█████░░░░░] 50%         │
+│  📚 Tech Blog/Documentation       [███░░░░░░░] 30%         │
+│                                                             │
+│  🎯 Ultimate Goal:                                          │
+│  → Become a Legendary Full Stack Engineer                  │
+│  → Master DevOps & Cloud Tech                              │
+│  → Build something that changes lives 💚                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 📌 Current Focus 2026
+
+<table>
+  <tr>
+    <td align="center">🔥<br><b>Building</b><br>Real-world apps</td>
+    <td align="center">☁️<br><b>Scaling</b><br>With K8s</td>
+    <td align="center">🎨<br><b>Crafting</b><br>Clean code</td>
+    <td align="center">🌍<br><b>Contributing</b><br>To OSS</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎮 Beyond Code - Know Me Better!
+
+<div align="center">
+
+### 🌟 Fun Facts & Personality
+
+```
+╔════════════════════════════════════════════╗
+║           ABOUT KITDANAY               ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║  🎮 Gaming Enthusiast                      ║
+║     └─ Plays: RPG, Strategy, Indie games  ║
+║                                            ║
+║  ☕ Coffee = Code Fuel                     ║
+║     └─ Can't code without coffee ☕        ║
+║                                            ║
+║  🌙 Night Owl 🦉                           ║
+║     └─ Best ideas come after midnight    ║
+║                                            ║
+║  📚 Tech Blog Addict                       ║
+║     └─ Reading code is my hobby           ║
+║                                            ║
+║  🚀 Dream Big Believer                     ║
+║     └─ "Sky is not the limit" 💫         ║
+║                                            ║
+║  🎵 Music Junkie 🎧                        ║
+║     └─ Lo-fi hip hop during coding       ║
+║                                            ║
+║  🌍 Introvert Explorer 🗺️                  ║
+║     └─ Love tech, shy with words          ║
+║                                            ║
+╚════════════════════════════════════════════╝
+```
+
+---
+
+### 🏆 Support & Appreciation
+
+<a href="https://github.com/kitdanay">
+  <img src="https://img.shields.io/badge/⭐%20STAR%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star"/>
+</a>
+
+**Every star means a lot! 💖**
+
+---
+
+## 🔥 Let's Build Something Amazing! 🔥
+
+> **_"The best time to start was yesterday,_**
+> **_the second best time is NOW!"_** ⚡
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWQ/giphy.gif" width="60" /> 
+
+### 💪 Ready to collaborate?
+**Hit me up! Let's create magic together.**
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by KITDANAY</b><br>
+  <img src="https://komarev.com/ghpvc/?username=kitdanay&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitors"/>
+  <br>
+  <sub>⚡ Last updated: February 2026 ⚡</sub>
+</p>
 
 </div>
