@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 ใครคือตั้ว? 👤
+## 🧑‍💻 My DNA (Developer DNA)
 
 ```js
 const kitdanay = {
@@ -34,7 +34,7 @@ const kitdanay = {
 - 🎨 **Creative Problem Solver** - ทำให้ UI/UX สวยงามและ functional
 - 💡 **Lifelong Learner** - เรียนรู้เทคโนโลยีใหม่ทุกวัน
 - 🚀 **Full Stack Enthusiast** - Frontend กับ Backend ทั้งรู้
-- 🌍 **Open Source Believer** - ชอบแชร์ความรู้กับชุมชน  
+- 🌍 **Open Source Believer** - ชอบแชร์ความรู้กับชุมชน
 
 ---
 
