@@ -6,7 +6,7 @@
 > ✨ _สร้างสิ่งดีๆ ด้วยโค้ดและจินตนาการ_ ✨
 
 <a href="https://github.com/kitdanay">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Full+Stack+Developer;Front-End+Enthusiast;DevOps+Learning;Always+Creating..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=435&lines=Full+Stack+Developer;Front-End,Back-End+Enthusiast;DevOps+Learning;Always+Creating..." alt="Typing SVG" />
 </a>
 
 ![Animated GIF](https://media.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif)
@@ -22,8 +22,9 @@ const kitdanay = {
   name: "Kitdanay Tua",
   title: "Full Stack Developer",
   passion: "Building scalable web applications 🚀",
-  frontend: ["React", "Vue.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Python", "Express", "MongoDB", "PostgreSQL"],
+  frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Nest.js", "Golang", "C#", "Donet"],
+  database:  "MongoDB", "PostgreSQL"],
   devops: ["Docker", "Linux", "Git", "CI/CD"],
   learning: ["AWS", "Kubernetes", "System Design"],
   status: "Always grinding 🔥",
@@ -147,7 +148,7 @@ const kitdanay = {
 
 - 🐙 **GitHub:** [@kitdanay](https://github.com/kitdanay) - Check out my projects!
 - 📸 **Instagram:** [@kitdanay.tua](https://www.instagram.com/kitdanay.tua/) - Follow my journey
-- 📧 **Email:** your-email@gmail.com - Let's collab!
+- 📧 **Email:** k.kitdanay@gmail.com - Let's collab!
 
 > **💡 Open for:**
 > - 🤝 Collaborations & partnerships
